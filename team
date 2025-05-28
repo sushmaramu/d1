@@ -1,0 +1,10 @@
+open github$copy url
+come to git bash cd d:
+*git clone url
+*ll
+*cd move repsitory name
+* vi,touch,echo file name
+*git status
+*git add file name
+*git commit -m ""
+git push
